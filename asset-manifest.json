@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react_router/static/css/main.189a0d5c.chunk.css",
+    "main.js": "/react_router/static/js/main.e1177e94.chunk.js",
+    "main.js.map": "/react_router/static/js/main.e1177e94.chunk.js.map",
+    "runtime~main.js": "/react_router/static/js/runtime~main.723f1353.js",
+    "runtime~main.js.map": "/react_router/static/js/runtime~main.723f1353.js.map",
+    "static/js/2.1bc7e2aa.chunk.js": "/react_router/static/js/2.1bc7e2aa.chunk.js",
+    "static/js/2.1bc7e2aa.chunk.js.map": "/react_router/static/js/2.1bc7e2aa.chunk.js.map",
+    "index.html": "/react_router/index.html",
+    "precache-manifest.ff66c10ba661ab2761d3e6d6c836bdaa.js": "/react_router/precache-manifest.ff66c10ba661ab2761d3e6d6c836bdaa.js",
+    "service-worker.js": "/react_router/service-worker.js",
+    "static/css/main.189a0d5c.chunk.css.map": "/react_router/static/css/main.189a0d5c.chunk.css.map",
+    "static/media/header1.jpg": "/react_router/static/media/header1.70e6670e.jpg",
+    "static/media/header2.jpg": "/react_router/static/media/header2.33eca35f.jpg",
+    "static/media/header3.jpg": "/react_router/static/media/header3.d9d36b65.jpg"
+  }
+}
